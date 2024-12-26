@@ -5,7 +5,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/SanDiegoBeck)
 
-## 🚀 About Me
+🚀 About Me
 
 I'm a passionate software developer origionally based in San Diego but now enjoying Colorado. I have experience in various technologies and enjoy working on open-source projects.
 
