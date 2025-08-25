@@ -1,6 +1,22 @@
 ## Greetings and Salutations! 👋
 
-<!--
+<!--<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SanDiegoBeck</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Greetings and Salutations!</h1>
+    </header>
+    <main>
+        <!-- Begin Content Here! -->
+
+</body>
+</html>
+
 **SanDiegoBeck/SanDiegoBeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Profile views](https://gpvc.arturio.dev/SanDiegoBeck)
@@ -64,6 +80,10 @@ I'm a passionate software developer origionally based in San Diego but now enjoy
 
 If you like my work, consider buying me a coffee:
 
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=your-profile&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/your-profile)
-
--->
+        <!-- End Content Here -->
+    </main>
+    <footer>
+        <p>&copy; 2025 Your Name</p>
+    </footer>
+</body>
+</html>>
