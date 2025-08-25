@@ -86,4 +86,4 @@ If you like my work, consider buying me a coffee:
         <p>&copy; 2025 Your Name</p>
     </footer>
 </body>
-</html>>
+</html>
