@@ -14,12 +14,7 @@
     <main>
         <!-- Begin Content Here! -->
 
-</body>
-</html>
-
 **SanDiegoBeck/SanDiegoBeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Profile views](https://gpvc.arturio.dev/SanDiegoBeck)
 
 🚀 About Me
 
@@ -76,11 +71,6 @@ I'm a passionate software developer origionally based in San Diego but now enjoy
 - [Your Achievement 2]
 - [Your Achievement 3]
 
-## 💖 Support Me
-
-If you like my work, consider buying me a coffee:
-
-        <!-- End Content Here -->
     </main>
     <footer>
         <p>&copy; 2025 Your Name</p>
